@@ -16,3 +16,7 @@ Program 2 : check Prime number
 #4 conversion of negative number into binary.cpp
 
 ![image](https://user-images.githubusercontent.com/84653100/161098914-92001351-5448-483f-85cd-24310eaac060.png)
+
+#5  conversion of positive binary into decimal.cpp
+
+![image](https://user-images.githubusercontent.com/84653100/161100594-661757cd-630c-4316-a084-e8493c189e31.png)
