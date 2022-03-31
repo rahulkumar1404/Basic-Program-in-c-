@@ -6,3 +6,8 @@ Program 2 : check Prime number
 
 
 ![image](https://user-images.githubusercontent.com/84653100/160792801-4bfd3e6f-b42d-46a8-b13e-f255aa60ea56.png)
+
+
+#3 conversion of positive number into binary.cpp
+
+#3 conversion of positive number into binary.cpp
