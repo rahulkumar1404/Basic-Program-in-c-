@@ -10,4 +10,9 @@ Program 2 : check Prime number
 
 #3 conversion of positive number into binary.cpp
 
-#3 conversion of positive number into binary.cpp
+![image](https://user-images.githubusercontent.com/84653100/161098810-d194a6f0-8b9f-4488-806c-29851b9fa73d.png)
+
+
+#4 conversion of negative number into binary.cpp
+
+![image](https://user-images.githubusercontent.com/84653100/161098914-92001351-5448-483f-85cd-24310eaac060.png)
