@@ -31,3 +31,8 @@ Program 2 : check Prime number
 #7 find the nth term of fibonacciSeries by using function.cpp
 
 ![image](https://user-images.githubusercontent.com/84653100/161290838-190158be-0161-467a-a35d-5497e9f35825.png)
+
+
+#8 count setbits in an integer  by using function.cpp
+
+![image](https://user-images.githubusercontent.com/84653100/161292246-7e87fb4c-b1dc-4abb-9042-f06306016500.png)
