@@ -26,3 +26,8 @@ Program 2 : check Prime number
 
 
 ![image](https://user-images.githubusercontent.com/84653100/161288388-0908c7b1-1b0d-4969-8171-6a16aba75168.png)
+
+
+#7 find the nth term of fibonacciSeries by using function.cpp
+
+![image](https://user-images.githubusercontent.com/84653100/161290838-190158be-0161-467a-a35d-5497e9f35825.png)
