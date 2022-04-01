@@ -20,3 +20,9 @@ Program 2 : check Prime number
 #5  conversion of positive binary into decimal.cpp
 
 ![image](https://user-images.githubusercontent.com/84653100/161100594-661757cd-630c-4316-a084-e8493c189e31.png)
+
+
+#6 Ap series by using function.cpp
+
+
+![image](https://user-images.githubusercontent.com/84653100/161288388-0908c7b1-1b0d-4969-8171-6a16aba75168.png)
