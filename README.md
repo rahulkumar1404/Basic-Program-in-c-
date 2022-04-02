@@ -36,3 +36,8 @@ Program 2 : check Prime number
 #8 count setbits in an integer  by using function.cpp
 
 ![image](https://user-images.githubusercontent.com/84653100/161292246-7e87fb4c-b1dc-4abb-9042-f06306016500.png)
+
+#9 Reversed alternate array elements.cpp
+
+![image](https://user-images.githubusercontent.com/84653100/161371929-51a4097c-b959-4f75-96da-10fb29810b6f.png)
+
